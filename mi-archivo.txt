@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-Hola
-que tal
-=======
 # tp_2
 Repositorio para el tp 2
+cambio realizado
 >>>>>>> 60263c0de08d8f06e160eed7eb0bf68752310983
